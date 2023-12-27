@@ -1,0 +1,47 @@
+.container {
+  display: flex;
+  gap: 20px;
+}
+
+.color {
+  border: 1px solid black;
+  height: 100px;
+  flex-basis: calc((100% - 20px) / 5);
+}
+
+.color-1 {
+  background-color: #E0D3C1;
+}
+
+.color-2 {
+  background-color: #C8AF9B;
+}
+
+.color-3 {
+  background-color: #A9AC97;
+}
+
+.color-4 {
+  background-color: #71735B;
+}
+
+.color-5 {
+  /*    background-color: #A0745B; */
+  background-color: #B8735B;
+}
+
+.color-1-variation {
+  background-color: #D0BDAF;
+}
+
+.color-2-variation {
+  background-color: #BE917C;
+}
+
+.color-4-variation {
+  background-color: #515242;
+}
+
+.color-5-variation {
+  background-color: #BE7155;
+}
