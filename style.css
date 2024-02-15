@@ -17,39 +17,26 @@
   flex-basis: calc((100% - 20px) / 5);
 }
 
-.color-1-ladies {
+.color-1 {
   background-color: #D0BDAF;
 }
 
-.color-2-ladies {
+.color-2 {
   background-color: #BE917C;
 }
 
-.color-3-ladies {
+.color-3 {
+  background-color: #b76d54;
+}
+
+.color-4 {
   background-color: #A9AC97;
 }
 
-.color-4-ladies {
+.color-5 {
   background-color: #515242;
 }
 
-.color-5-ladies {
-  /*    background-color: #A0745B; */
-  background-color: #B8735B;
-}
-
-.color-1-gentlemen {
-  background-color: #D0BDAF;
-}
-
-.color-2-gentlemen {
-  background-color: #BE917C;
-}
-
-.color-3-gentlemen {
-  background-color: #515242;
-}
-
-.color-4-gentlemen {
+.color-6 {
   background-color: black;
 }
